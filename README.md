@@ -1,4 +1,4 @@
-# GMGN.ai Scraper v4
+# GMGN.ai Scraper v4 
 
 Browser console scripts that extract smart money wallets, KOL wallets, token rankings, radar signals, and DEX trades from [gmgn.ai](https://gmgn.ai).
 

@@ -8,7 +8,7 @@ All API fetch helpers include automatic retry with exponential backoff for HTTP 
 
 1. Open **gmgn.ai** in Chrome (any page, e.g. `/trade/nichxbt?chain=sol`)
 2. Open DevTools → Console
-3. Paste scripts **in order**: `01.js` → `02.js` → `03.js` → `04.js` → `05-master-orchestrator.js`
+3. Paste scripts **in order**: `01.js` → `02.js` → `03-kol-wallets.js` → `04-token-activity.js` → `05-master-orchestrator.js`
 4. Run:
 
 ```js

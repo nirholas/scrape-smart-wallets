@@ -168,3 +168,7 @@ All scripts export JSON via browser download. The master orchestrator offers thr
 | JSON (multi-chain) | `Master.exportMultiChain()` | `gmgn-multi-chain-2025-01-15T12-30-00.json` |
 
 CSV columns: `address`, `source`, `pnl_7d`, `pnl_30d`, `winrate`, `tags`, `chain`, `has_detail`, `has_holdings`
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/scrape-smart-wallets&type=Date)](https://www.star-history.com/#nirholas/scrape-smart-wallets&Date)

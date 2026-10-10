@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "scrape-smart-wallets"
+abstract: "Browser console scripts that extract smart money wallets, KOL wallets, token rankings, radar signals, and DEX trades from gmgn.ai."
+repository-code: "https://github.com/nirholas/scrape-smart-wallets"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

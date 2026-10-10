@@ -1,5 +1,10 @@
 # GMGN.ai Scraper v4 
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/scrape-smart-wallets?style=flat&logo=github)](https://github.com/nirholas/scrape-smart-wallets/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/scrape-smart-wallets?style=flat)](https://github.com/nirholas/scrape-smart-wallets/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/scrape-smart-wallets/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Browser console scripts that extract smart money wallets, KOL wallets, token rankings, radar signals, and DEX trades from [gmgn.ai](https://gmgn.ai).
 
 All API fetch helpers include automatic retry with exponential backoff for HTTP 429 (rate limit) and 5xx (server error) responses (up to 3 attempts).
@@ -172,3 +177,26 @@ CSV columns: `address`, `source`, `pnl_7d`, `pnl_30d`, `winrate`, `tags`, `chain
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/scrape-smart-wallets&type=Date)](https://www.star-history.com/#nirholas/scrape-smart-wallets&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If scrape-smart-wallets saves you time, **[star it on GitHub](https://github.com/nirholas/scrape-smart-wallets)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=scrape-smart-wallets%3A%20Browser%20console%20scripts%20that%20extract%20smart%20money%20wallets%2C%20KOL%20wallets%2C%20token%20rankings%2C%20radar&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fscrape-smart-wallets) · [Share on Bluesky](https://bsky.app/intent/compose?text=scrape-smart-wallets%3A%20Browser%20console%20scripts%20that%20extract%20smart%20money%20wallets%2C%20KOL%20wallets%2C%20token%20rankings%2C%20radar%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fscrape-smart-wallets) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fscrape-smart-wallets) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fscrape-smart-wallets&t=scrape-smart-wallets%3A%20Browser%20console%20scripts%20that%20extract%20smart%20money%20wallets%2C%20KOL%20wallets%2C%20token%20rankings%2C%20radar) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fscrape-smart-wallets&title=scrape-smart-wallets%3A%20Browser%20console%20scripts%20that%20extract%20smart%20money%20wallets%2C%20KOL%20wallets%2C%20token%20rankings%2C%20radar)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/scrape-smart-wallets` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/scrape-smart-wallets/issues) or [start a discussion](https://github.com/nirholas/scrape-smart-wallets/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/scrape-smart-wallets)](https://github.com/nirholas/scrape-smart-wallets/graphs/contributors)
+
+<!-- /three.ws:growth -->

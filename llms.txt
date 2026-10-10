@@ -1,0 +1,26 @@
+# scrape-smart-wallets
+
+> Browser console scripts that extract smart money wallets, KOL wallets, token rankings, radar signals, and DEX trades from gmgn.ai.
+
+scrape-smart-wallets is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md): install, usage and reference
+- [Quick Start](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md#quick-start)
+- [Scripts](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md#scripts)
+- [Resilience](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md#resilience)
+- [API Endpoints Used](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md#api-endpoints-used)
+- [Reference](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md#reference)
+- [Output](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/README.md#output)
+- [AGENTS.md](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/scrape-smart-wallets/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/scrape-smart-wallets)
+- [Issues](https://github.com/nirholas/scrape-smart-wallets/issues)
+- [Discussions](https://github.com/nirholas/scrape-smart-wallets/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
